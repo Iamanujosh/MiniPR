@@ -26,7 +26,7 @@ import os
 import pdfplumber
 
 # Configure the API key
-my_api_key = 'AIzaSyDwcpxJ34DnWKBEFPC78FAiQ5kKQd8yXC4'
+my_api_key = 'AIzaSyBSZpMQNqMD8bS43tJsHgHw8J7_pKR0IJY'
 genai.configure(api_key=my_api_key)
 
 
